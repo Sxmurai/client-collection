@@ -1,0 +1,15 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Offhand",
+  "Crystal": true,
+  "CrystalHP": 13.0,
+  "CrystalHoleHP": 3.5,
+  "Gapple": true,
+  "AntiGapFail": false,
+  "ArmorCheck": true,
+  "Packets": 4,
+  "FallDistance": false,
+  "Height": 0.0
+}

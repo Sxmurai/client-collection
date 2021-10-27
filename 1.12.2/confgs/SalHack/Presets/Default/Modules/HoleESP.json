@@ -1,0 +1,17 @@
+{
+  "Radius": "8",
+  "BedrockAlpha": "0.5",
+  "hidden": "false",
+  "IgnoreOwnHole": "false",
+  "display": "HoleESP",
+  "Mode": "FlatOutline",
+  "BedrockGreen": "1.0",
+  "enabled": "true",
+  "ObsidianBlue": "0.0",
+  "BedrockRed": "0.0",
+  "keybind": "NONE",
+  "BedrockBlue": "0.8",
+  "ObsidianAlpha": "0.5",
+  "ObsidianRed": "0.0",
+  "ObsidianGreen": "1.0"
+}

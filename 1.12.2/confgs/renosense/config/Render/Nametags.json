@@ -1,0 +1,22 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Nametags",
+  "Health": true,
+  "Armor": true,
+  "Size": 2.3,
+  "Invisibles": false,
+  "Ping": true,
+  "TotemPops": true,
+  "Gamemode": false,
+  "ID": false,
+  "Rectangle": true,
+  "SneakColor": false,
+  "StackName": false,
+  "White": false,
+  "OnlyFov": false,
+  "Scale": false,
+  "Factor": 0.3,
+  "SmartScale": false
+}

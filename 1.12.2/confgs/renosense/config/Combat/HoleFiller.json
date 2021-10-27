@@ -1,0 +1,16 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "HoleFiller",
+  "Range": 4.5,
+  "Smart": false,
+  "Smart Range": 4.0,
+  "Announce Usage": false,
+  "Rainbow": false,
+  "Red": 0,
+  "Green": 255,
+  "Blue": 0,
+  "Alpha": 0,
+  "OL-Alpha": 0
+}

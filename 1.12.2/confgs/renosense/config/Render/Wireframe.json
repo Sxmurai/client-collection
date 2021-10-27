@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Wireframe",
+  "PAlpha": 255.0,
+  "PLineWidth": 1.0,
+  "PMode": "SOLID",
+  "Players": false,
+  "PlayerModel": false
+}

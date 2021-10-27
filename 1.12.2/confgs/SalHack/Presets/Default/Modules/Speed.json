@@ -1,0 +1,12 @@
+{
+  "SpeedInWater": "false",
+  "AutoSprint": "false",
+  "Strict": "false",
+  "hidden": "false",
+  "UseTimer": "false",
+  "display": "Speed",
+  "keybind": "I",
+  "Mode": "Strafe",
+  "AutoJump": "true",
+  "enabled": "true"
+}

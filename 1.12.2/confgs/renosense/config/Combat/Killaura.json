@@ -1,0 +1,18 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "K",
+  "DisplayName": "Killaura",
+  "Range": 5.0,
+  "HitDelay": true,
+  "Rotate": true,
+  "SwordOnly": true,
+  "Raytrace": 4.5,
+  "Players": true,
+  "Mobs": false,
+  "Animals": false,
+  "Entities": false,
+  "Projectiles": false,
+  "TpsSync": true,
+  "Packet": false
+}

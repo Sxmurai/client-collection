@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "SkyColor",
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "Rainbow": false,
+  "Fog": true
+}

@@ -1,0 +1,11 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "CustomFont",
+  "FontName": "Arial",
+  "AntiAlias": true,
+  "Metrics": true,
+  "Size": 18,
+  "Style": 0
+}

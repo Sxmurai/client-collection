@@ -1,0 +1,10 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Replenish",
+  "Delay": 2,
+  "GapStack": 1,
+  "XPStack": 1,
+  "CrystalStack": 1
+}

@@ -1,0 +1,10 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "NoSlow",
+  "NoSlow": true,
+  "Explosions": true,
+  "Horizontal": 0.0,
+  "Vertical": 0.0
+}

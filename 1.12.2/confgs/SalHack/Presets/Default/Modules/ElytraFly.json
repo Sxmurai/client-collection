@@ -1,0 +1,19 @@
+{
+  "CancelInWater": "true",
+  "Speed": "1.82",
+  "hidden": "false",
+  "GlideSpeed": "1.0",
+  "display": "ElytraFly",
+  "Mode": "Normal",
+  "Accelerate": "true",
+  "enabled": "true",
+  "InstantFly": "true",
+  "RotationPitch": "0.0",
+  "Timer": "1000",
+  "DownSpeed": "1.82",
+  "EquipElytra": "false",
+  "keybind": "P",
+  "CancelAtHeight": "5",
+  "UpSpeed": "2.0",
+  "PitchSpoof": "false"
+}

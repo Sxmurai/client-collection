@@ -1,0 +1,13 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "NoRender",
+  "Blocks": true,
+  "NoArmor": "ALL",
+  "Skylight": "NONE",
+  "Advancements": true,
+  "NoHurtCam": true,
+  "Fire": true,
+  "Explosions": true
+}

@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "AutoTrap",
+  "Delay": 50,
+  "BlocksPerTick": 8,
+  "Rotate": true,
+  "Raytrace": false,
+  "AntiScaffold": false,
+  "AntiStep": false
+}

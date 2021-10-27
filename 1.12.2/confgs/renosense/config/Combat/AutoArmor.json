@@ -1,0 +1,12 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "AutoArmor",
+  "Delay": 169,
+  "Vanishing": false,
+  "AutoMend": false,
+  "Enemy": 8,
+  "Repair%": 80,
+  "Packets": 2
+}

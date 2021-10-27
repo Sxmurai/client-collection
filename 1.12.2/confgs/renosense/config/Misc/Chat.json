@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Chat",
+  "Suffix": "NONE",
+  "CleanChat": false,
+  "Infinite": false,
+  "AutoQMain": false,
+  "QNotification": false,
+  "QDelay": 9
+}

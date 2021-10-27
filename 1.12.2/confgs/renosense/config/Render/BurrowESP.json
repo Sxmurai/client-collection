@@ -1,0 +1,16 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "BurrowESP",
+  "Range": 20,
+  "Self": true,
+  "Text": true,
+  "TextString": "BURROW",
+  "Rainbow": true,
+  "Red": 0,
+  "Green": 255,
+  "Blue": 0,
+  "Alpha": 0,
+  "OL-Alpha": 0
+}

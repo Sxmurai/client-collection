@@ -1,0 +1,14 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "ChorusPredict",
+  "Debug": true,
+  "RenderDelay": 4000,
+  "Rainbow": false,
+  "Red": 0,
+  "Green": 255,
+  "Blue": 0,
+  "Alpha": 0,
+  "OL-Alpha": 0
+}

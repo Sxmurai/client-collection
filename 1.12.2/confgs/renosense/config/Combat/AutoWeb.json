@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "AutoWeb",
+  "Delay": 50,
+  "BlocksPerTick": 8,
+  "PacketPlace": false,
+  "AutoDisable": false,
+  "Rotate": true,
+  "Raytrace": false,
+  "Feet": true,
+  "Face": false
+}

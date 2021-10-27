@@ -1,0 +1,10 @@
+{
+  "Snowing": "true",
+  "hidden": "false",
+  "display": "ClickGui",
+  "keybind": "LEFT",
+  "HoverDescriptions": "true",
+  "Watermark": "true",
+  "enabled": "false",
+  "AllowOverflow": "true"
+}

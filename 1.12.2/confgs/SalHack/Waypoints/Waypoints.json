@@ -1,0 +1,57 @@
+[
+  {
+    "_displayName": "Arktiko logout spot",
+    "_pos": {
+      "x": 44.72896543079116,
+      "y": 152.2286822166435,
+      "z": 161.29122780277885
+    },
+    "_type": "Logout",
+    "_address": "strict.2b2tpvp.org",
+    "_dimension": 0
+  },
+  {
+    "_displayName": "gaimersecundus logout spot",
+    "_pos": {
+      "x": 62.304443359375,
+      "y": 2.0,
+      "z": 146.699951171875
+    },
+    "_type": "Logout",
+    "_address": "strict.2b2tpvp.org",
+    "_dimension": 0
+  },
+  {
+    "_displayName": "FemboyFurryFox logout spot",
+    "_pos": {
+      "x": 72.5107421875,
+      "y": 2.0,
+      "z": 161.699951171875
+    },
+    "_type": "Logout",
+    "_address": "2b2tpvp.org",
+    "_dimension": 0
+  },
+  {
+    "_displayName": "ItsSpirol logout spot",
+    "_pos": {
+      "x": 69.39697265625,
+      "y": 152.0,
+      "z": 164.574951171875
+    },
+    "_type": "Logout",
+    "_address": "2b2tpvp.org",
+    "_dimension": 0
+  },
+  {
+    "_displayName": "HIRO8021 logout spot",
+    "_pos": {
+      "x": 42.765869140625,
+      "y": 5.0,
+      "z": 189.2998046875
+    },
+    "_type": "Logout",
+    "_address": "2b2tpvp.org",
+    "_dimension": 0
+  }
+]

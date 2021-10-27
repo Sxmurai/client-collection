@@ -1,0 +1,114 @@
+{
+  "Panels": {
+    "watermark": {
+      "PosX": -2,
+      "PosY": 1,
+      "State": true
+    },
+    "welcomer": {
+      "PosX": 75,
+      "PosY": 70,
+      "State": false
+    },
+    "totems": {
+      "PosX": -2,
+      "PosY": 11,
+      "State": false
+    },
+    "gapples": {
+      "PosX": 134,
+      "PosY": 82,
+      "State": false
+    },
+    "crystals": {
+      "PosX": 75,
+      "PosY": 82,
+      "State": false
+    },
+    "ping": {
+      "PosX": -2,
+      "PosY": 19,
+      "State": true
+    },
+    "frames": {
+      "PosX": -2,
+      "PosY": 29,
+      "State": true
+    },
+    "autoCrystalHud": {
+      "PosX": -2,
+      "PosY": 39,
+      "State": false
+    },
+    "killAuraHud": {
+      "PosX": -1,
+      "PosY": 51,
+      "State": false
+    },
+    "surroundHud": {
+      "PosX": -2,
+      "PosY": 59,
+      "State": false
+    },
+    "arrayList": {
+      "PosX": -2,
+      "PosY": 69,
+      "State": true
+    },
+    "inventoryViewer": {
+      "PosX": 122,
+      "PosY": 2,
+      "State": false
+    },
+    "playerModel": {
+      "PosX": 75,
+      "PosY": 2,
+      "State": false
+    },
+    "coords": {
+      "PosX": 1,
+      "PosY": 374,
+      "State": true
+    },
+    "player": {
+      "PosX": 2,
+      "PosY": 3,
+      "State": true
+    },
+    "render": {
+      "PosX": 105,
+      "PosY": 3,
+      "State": true
+    },
+    "pvp": {
+      "PosX": 207,
+      "PosY": 3,
+      "State": true
+    },
+    "exploits": {
+      "PosX": 309,
+      "PosY": 3,
+      "State": true
+    },
+    "movement": {
+      "PosX": 412,
+      "PosY": 3,
+      "State": true
+    },
+    "hud": {
+      "PosX": 30,
+      "PosY": 245,
+      "State": false
+    },
+    "client": {
+      "PosX": 516,
+      "PosY": 3,
+      "State": true
+    },
+    "bot": {
+      "PosX": 30,
+      "PosY": 231,
+      "State": false
+    }
+  }
+}

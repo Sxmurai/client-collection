@@ -1,0 +1,23 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "CrystalChams",
+  "Chams": true,
+  "ThroughWalls": true,
+  "WireThroughWalls": true,
+  "Glint": false,
+  "Wireframe": true,
+  "Scale": 1.0,
+  "LineWidth": 1.0,
+  "Rainbow": true,
+  "XQZ": false,
+  "Red": 0,
+  "Green": 255,
+  "Blue": 0,
+  "Alpha": 80,
+  "Hidden Red": 255,
+  "Hidden Green": 0,
+  "Hidden Blue": 255,
+  "Hidden Alpha": 255
+}

@@ -1,0 +1,23 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "PacketMine",
+  "Tweaks": true,
+  "Reset": true,
+  "Range": 6.1,
+  "Silent": true,
+  "NoBreakAnim": true,
+  "NoDelay": false,
+  "NoSwing": false,
+  "AllowMultiTask": true,
+  "DoubleBreak": false,
+  "Render": true,
+  "Red": 125,
+  "Green": 105,
+  "Blue": 255,
+  "Box": true,
+  "Outline": true,
+  "LineWidth": 1.0,
+  "BoxAlpha": 85
+}

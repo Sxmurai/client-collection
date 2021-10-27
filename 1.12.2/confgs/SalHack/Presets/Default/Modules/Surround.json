@@ -1,0 +1,12 @@
+{
+  "ToggleOffGround": "false",
+  "BlocksPerTick": "1",
+  "Center": "NCP",
+  "hidden": "false",
+  "Rotate": "true",
+  "display": "Surround",
+  "keybind": "V",
+  "ActivateOnlyOnShift": "false",
+  "enabled": "false",
+  "Toggles": "false"
+}

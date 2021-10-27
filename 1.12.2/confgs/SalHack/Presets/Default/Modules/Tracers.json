@@ -1,0 +1,14 @@
+{
+  "Others": "false",
+  "Invisibles": "true",
+  "Animals": "false",
+  "hidden": "false",
+  "Friends": "true",
+  "display": "Tracers",
+  "keybind": "NONE",
+  "Monsters": "false",
+  "Items": "false",
+  "enabled": "true",
+  "Vehicles": "false",
+  "Players": "true"
+}
